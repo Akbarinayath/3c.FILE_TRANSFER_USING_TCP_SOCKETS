@@ -1,7 +1,7 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 
-## NAME : SHREYESHKAR SEKAR
-## REGISTER NUMBER : 212224220099
+## NAME : Akbar I
+## REGISTER NUMBER : 212224230014
 
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
